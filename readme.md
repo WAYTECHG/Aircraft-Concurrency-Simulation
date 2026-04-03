@@ -42,8 +42,3 @@ These programs showcase  **synchronization** ,  **mutual exclusion** , and **res
 
 ---
 
-### ⚖️ License
-
-This project is shared for  **educational and portfolio purposes only** .
-
-Reproduction, modification, or redistribution of the source code without permission is  **not allowed** .
