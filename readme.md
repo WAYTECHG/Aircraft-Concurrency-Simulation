@@ -40,5 +40,3 @@ These programs showcase  **synchronization** ,  **mutual exclusion** , and **res
 * **Thread Management** using `pthread_create` and `pthread_join`
 * **Critical Section Protection**
 
----
-
